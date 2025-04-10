@@ -170,12 +170,8 @@ Code Currents represent the continuous, intelligent flow of data throughout the 
 Like currents in a living system, they are precise, responsive, and always in motion — embodying the brand's core values of speed, flow, and clarity. Whether deploying, securing, or optimizing AI systems, Code Currents remind users that behind every action is a sophisticated, invisible architecture powering it all with skill and ease.
 
 #### Usage Examples
-- DEPLOY AI AGENTS, MODELS & APPLICATIONS
-- SECURE YOUR OPEN SOURCE MODELS
-- CREATE GOLDEN PATHS FOR AI TEAMS
-- USE YOUR EXISTING TOOLS
-- SPEED MODEL DELIVERY
-- AUDIT MODEL CHANGES AND PROVENANCE
+
+<img width="502" alt="Screenshot 2025-04-10 at 10 11 11 AM" src="https://github.com/user-attachments/assets/0e9b0379-358e-4980-a21f-530a4175d323" />
 
 ### Code Lock Mono Brackets
 
@@ -184,9 +180,7 @@ Code Lock Mono Brackets are a distinctive typographic device used to frame subhe
 They serve as a visual "code lock," guiding users through the system with confidence and precision. Use Code Lock Mono Brackets to introduce major sections, annotate feature blocks, or highlight key transitions — anywhere a moment of emphasis or guided context is needed before the main message.
 
 #### Example
-```
-[ EXAMPLE OF MONO USE ]
-```
+<img width="270" alt="Screenshot 2025-04-10 at 10 10 45 AM" src="https://github.com/user-attachments/assets/c00b0146-12cd-4d40-a4b6-9042d1d776ef" />
 
 ## Resources
 
